@@ -14,6 +14,11 @@ CSS source code is [Here](https://github.com/saianil58/Keras-Model-Deployment/tr
 
 After the server is launced and we can go to specified url, in this case as we are doing local deployment the URL would be "http://127.0.0.1:8111/"
 
-The screen on that url would look like this:
+![Image](https://github.com/saianil58/Keras-Model-Deployment/blob/master/images/server.JPG)
 
+The screen on that url would look like this:
+![Image](https://github.com/saianil58/Keras-Model-Deployment/blob/master/images/one.JPG)
+
+We just need to write any number in the white box and click on predict button and we would see the result.
+![Image](https://github.com/saianil58/Keras-Model-Deployment/blob/master/images/two.JPG)
 
