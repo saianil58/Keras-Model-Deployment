@@ -22,3 +22,4 @@ The screen on that url would look like this:
 We just need to write any number in the white box and click on predict button and we would see the result.
 ![Image](https://github.com/saianil58/Keras-Model-Deployment/blob/master/images/two.JPG)
 
+Feel free to use this code and change the model to get better predictions, usually CNNs perform better than ANN in most cases while dealing with image data
